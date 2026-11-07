@@ -19,7 +19,6 @@ import com.klef.soa.entity.Booking;
 import com.klef.soa.service.BookingServiceImpl;
 
 @RestController
-@RequestMapping("booking")
 public class BookingController 
 {
 	@Autowired
